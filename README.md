@@ -28,7 +28,3 @@ npm install vue-router@4
 ```sh
 npm run dev
 ```
-
-### Compile and Minify for Production
-
-# PruebaTecnicaVue
